@@ -1,0 +1,8 @@
+@startuml
+
+class Page {
+  +string html
+  +int id
+}
+
+@enduml
