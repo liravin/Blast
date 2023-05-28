@@ -1,5 +1,7 @@
 <?php
 
+declare(strict_types=1);
+
 $title = 'Register';
 
 require_once $_SERVER['DOCUMENT_ROOT'] . '/htdocs/includes/header.php';
